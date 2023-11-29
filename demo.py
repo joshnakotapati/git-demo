@@ -13,4 +13,10 @@ print(s.capitalize())
 for i in s:
     if i == 'i':
         continue
-        print(s)
+    print(s)
+
+li = [1,2,'sdhf',3]
+li1=[]
+for i in li:
+    li1.append(i)
+print(li1,end =' ')
