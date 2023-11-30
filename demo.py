@@ -20,3 +20,4 @@ li1=[]
 for i in li:
     li1.append(i)
 print(li1,end =' ')
+print(st)
