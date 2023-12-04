@@ -20,6 +20,10 @@ li1=[]
 for i in li:
     li1.append(i)
 print(li1,end =' ')
+<<<<<<< HEAD
 print(st)
 
 print("hello world")
+=======
+print(st)
+>>>>>>> cd521b2d9adffe19717cddc32fe29e5a02204b44
