@@ -7,3 +7,5 @@ print(dic.keys())
 
 print(dic.values())
 print(dic.get(1))
+
+print("hello world")
